@@ -1,0 +1,5 @@
+# check_url_canbeaccess
+检查txt中所有url是否能被访问
+读取txt文件的每一行url
+使用curl测试访问情况
+输出测试结果
